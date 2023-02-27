@@ -1,16 +1,26 @@
-### Hi there 👋
+# Hi there 👋
+I'm Your Name, a frontend developer based in Your Location. Welcome to my GitHub profile!
 
-<!--
-**haseeb196/haseeb196** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Skills
+- HTML
+- CSS
+- JavaScript
+- React
+- Bootstrap
 
-Here are some ideas to get you started:
+## 🔥 Projects
+Here are some of my recent projects:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Project 1 - A website for a local restaurant, built with HTML, CSS, and JavaScript.
+- Project 2 - An e-commerce platform, built with React and Bootstrap.
+- Project 3 - A social media app, built with React and Firebase.
+
+## 📫 How to reach me
+[LinkedIn]()
+[Twitter]()
+[Portfolio website](https://personal-portfolio-sage-seven.vercel.app)
+
+## 👀 Other places to find me
+- [CodePen](https://codepen.io/haseeb-siddiqui)
+
+Thanks for stopping by! Let's connect and work together on some awesome projects!
