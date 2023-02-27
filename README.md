@@ -26,6 +26,6 @@ Feel free to connect with me on any of these platforms. I'm always open to colla
 
 ## 👀 Other places to find me
 
-- [![CodePen](https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/haseeb-siddiqui)
+[![CodePen](https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/haseeb-siddiqui)
 
 Thanks for stopping by! Let's connect and work together on some awesome projects!
