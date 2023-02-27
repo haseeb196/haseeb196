@@ -1,5 +1,5 @@
 # Hi there 👋
-I'm Your Name, a frontend developer based in Your Location. Welcome to my GitHub profile!
+I'm Your Abdul Haseeb, a frontend developer based in Your Location. Welcome to my GitHub profile!
 
 ## 🚀 Skills
 - HTML
