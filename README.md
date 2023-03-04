@@ -3,7 +3,7 @@ I'm Abdul Haseeb, A frontend developer based in Karachi, Pakistan. Welcome to my
 
 ## 🔥 Interests
 
-Currently, I'm really interested in the world of serverless architecture and how it can be used to build scalable and cost-effective web applications. I'm also a big fan of CSS and love experimenting with new techniques to create engaging animations and visual effects.
+Currently, I'm really interested in the world of serverless architecture and how it can be used to build scalable and cost-effective web applications.
 
 In my free time, I enjoy reading tech blogs and watching tutorials on YouTube to stay up-to-date with the latest trends in web development. I'm also an avid gamer and love playing strategy and simulation games like Age of Empires and Cities: Skylines.
 
@@ -21,9 +21,9 @@ I'm always looking for resources to improve my skills and knowledge. Here are so
 ## 🔥 Projects
 Here are some of my recent projects:
 
-* Project 1 - A website for a local restaurant, built with HTML, CSS, and JavaScript.
-* Project 2 - An e-commerce platform, built with React and Bootstrap.
-* Project 3 - A social media app, built with React and Firebase.
+* Project 1 - [A Facebook clone created using React, Firebase, and Material-UI.](https://fb-clone-359ec.web.app/)
+* Project 2 - [A WhatsApp clone developed using React, Firebase, Material-UI, and React Router DOM.](https://whatsapp-mern-56d98.web.app/)
+* Project 3 - [A Wikipedia search application built with Next.js, Framer Motion, and Tailwind CSS](https://wiki-app-cddfc.web.app/)
 
 ## 📫 How to reach me
 
