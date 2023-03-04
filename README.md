@@ -1,14 +1,23 @@
 # **Hi there 👋**
 I'm Abdul Haseeb, A frontend developer based in Karachi, Pakistan. Welcome to my GitHub profile!
 
-## 🚀 Skills
+## 🔥 Interests
 
-- HTML
-- CSS
-- JavaScript
-- React
-- Tailwind
+Currently, I'm really interested in the world of serverless architecture and how it can be used to build scalable and cost-effective web applications. I'm also a big fan of CSS and love experimenting with new techniques to create engaging animations and visual effects.
 
+In my free time, I enjoy reading tech blogs and watching tutorials on YouTube to stay up-to-date with the latest trends in web development. I'm also an avid gamer and love playing strategy and simulation games like Age of Empires and Cities: Skylines.
+
+## 📚 My Favorite Resources
+
+I'm always looking for resources to improve my skills and knowledge. Here are some of my favorite resources that I find particularly helpful:
+
+ - CSS Tricks: This website has a vast library of articles, videos, and tutorials on all things CSS.
+ - Stack Overflow: A question and answer website where developers can get help and learn from other developers.
+ - Stack Exchange: A network of question and answer websites covering a wide range of topics, including web development.
+ - W3Schools: A website that offers tutorials, references, and examples for web development technologies such as HTML, CSS, and JavaScript.
+ - Frontend Masters: An online learning platform with courses taught by expert developers covering a wide range of front-end topics.
+ - CodePen: A community-driven platform where developers can showcase their front-end development skills, experiment with code, and learn from others.
+    
 ## 🔥 Projects
 Here are some of my recent projects:
 
