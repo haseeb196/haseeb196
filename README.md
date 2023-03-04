@@ -5,7 +5,7 @@ I'm Abdul Haseeb, A frontend developer based in Karachi, Pakistan. Welcome to my
 
 Currently, I'm really interested in the world of serverless architecture and how it can be used to build scalable and cost-effective web applications.
 
-In my free time, I enjoy reading tech blogs and watching tutorials on YouTube to stay up-to-date with the latest trends in web development. I'm also an avid gamer and love playing strategy and simulation games like Age of Empires and Cities: Skylines.
+In my free time, I enjoy reading tech blogs and watching tutorials on YouTube to stay up-to-date with the latest trends in web development.
 
 ## 📚 My Favorite Resources
 
