@@ -21,8 +21,8 @@ I'm always looking for resources to improve my skills and knowledge. Here are so
 ## 🔥 Projects
 Here are some of my recent projects:
 
-* Project 1 - [A Facebook clone created using React, Firebase, and Material-UI.](https://fb-clone-359ec.web.app/)
-* Project 2 - [A WhatsApp clone developed using React, Firebase, Material-UI, and React Router DOM.](https://whatsapp-mern-56d98.web.app/)
+* Project 1 - [A chatGPT-clone built using NextJS, Tailwind CSS, MUI & Typescript](https://chatgpt-clon.vercel.app/)
+* Project 2 - [The Amazon-clone with Stripe payment method integration](https://amazon-clone13.vercel.app/)
 * Project 3 - [A Wikipedia search application built with Next.js, Framer Motion, and Tailwind CSS](https://wiki-app-cddfc.web.app/)
 
 ## 📫 How to reach me
