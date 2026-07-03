@@ -19,12 +19,18 @@ I'm always looking for resources to improve my skills and knowledge. Here are so
  - CodePen: A community-driven platform where developers can showcase their front-end development skills, experiment with code, and learn from others.
     
 ## 🔥 Projects
+
 Here are some of my recent projects:
 
-* Project 1 - [A chatGPT-clone built using NextJS, Tailwind CSS, MUI & Typescript](https://chatgpt-clon.vercel.app/)
-* Project 2 - [The Amazon-clone with Stripe payment method integration](https://amazon-clone13.vercel.app/)
-* Project 3 - [A Wikipedia search application built with Next.js, Framer Motion, and Tailwind CSS](https://wiki-app-cddfc.web.app/)
+* **Employee Management System** – A full-stack employee management application built with Next.js and Supabase, featuring authentication, employee management, role-based access, and a modern responsive dashboard.  
+  https://ems-beige-rho.vercel.app/
 
+* **Iron Peak Fitness** – A modern fitness landing page built with Next.js, TypeScript, Tailwind CSS, and Framer Motion, featuring bold typography, smooth animations, and a fully responsive design.  
+  https://iron-peak-fitness-zeta.vercel.app/
+
+* **Real-Time Chat Application** – A modern chat application with real-time messaging, user authentication, responsive UI, and instant communication built with React and Next.js.  
+  https://possup.vercel.app/
+  
 ## 📫 How to reach me
 
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Abdul_Haseeb093)
